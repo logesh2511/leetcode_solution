@@ -14,6 +14,7 @@ c,c++ leetcode solution
 | [0315-count-of-smaller-numbers-after-self](https://github.com/logesh2511/leetcode_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0525-contiguous-array](https://github.com/logesh2511/leetcode_solution/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/logesh2511/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Binary Search
@@ -182,6 +183,7 @@ c,c++ leetcode solution
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0525-contiguous-array](https://github.com/logesh2511/leetcode_solution/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/logesh2511/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 ## Geometry
 |  |
 | ------- |
@@ -221,4 +223,5 @@ c,c++ leetcode solution
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/logesh2511/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/logesh2511/leetcode_solution/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/logesh2511/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

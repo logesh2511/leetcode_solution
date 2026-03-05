@@ -114,6 +114,7 @@ c,c++ leetcode solution
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1402-reducing-dishes](https://github.com/logesh2511/leetcode_solution/tree/master/1402-reducing-dishes) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -140,6 +141,7 @@ c,c++ leetcode solution
 | [2027-minimum-moves-to-convert-string](https://github.com/logesh2511/leetcode_solution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/logesh2511/leetcode_solution/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Dynamic Programming
@@ -232,6 +234,7 @@ c,c++ leetcode solution
 | [2027-minimum-moves-to-convert-string](https://github.com/logesh2511/leetcode_solution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/logesh2511/leetcode_solution/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -250,6 +253,7 @@ c,c++ leetcode solution
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/logesh2511/leetcode_solution/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/logesh2511/leetcode_solution/tree/master/3026-maximum-good-subarray-sum) |
 ## Geometry
 |  |
@@ -314,4 +318,8 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/logesh2511/leetcode_solution/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->

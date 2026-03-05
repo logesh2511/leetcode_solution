@@ -157,6 +157,7 @@ c,c++ leetcode solution
 | [2027-minimum-moves-to-convert-string](https://github.com/logesh2511/leetcode_solution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2953-count-complete-substrings](https://github.com/logesh2511/leetcode_solution/tree/master/2953-count-complete-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh2511/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/logesh2511/leetcode_solution/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
@@ -284,6 +285,7 @@ c,c++ leetcode solution
 | [0854-k-similar-strings](https://github.com/logesh2511/leetcode_solution/tree/master/0854-k-similar-strings) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2953-count-complete-substrings](https://github.com/logesh2511/leetcode_solution/tree/master/2953-count-complete-substrings) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/logesh2511/leetcode_solution/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3026-maximum-good-subarray-sum](https://github.com/logesh2511/leetcode_solution/tree/master/3026-maximum-good-subarray-sum) |
@@ -364,6 +366,7 @@ c,c++ leetcode solution
 | ------- |
 | [0076-minimum-window-substring](https://github.com/logesh2511/leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/logesh2511/leetcode_solution/tree/master/0239-sliding-window-maximum) |
+| [2953-count-complete-substrings](https://github.com/logesh2511/leetcode_solution/tree/master/2953-count-complete-substrings) |
 ## Monotonic Queue
 |  |
 | ------- |

@@ -10,6 +10,7 @@ c,c++ leetcode solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/logesh2511/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/logesh2511/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/logesh2511/leetcode_solution/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/logesh2511/leetcode_solution/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/logesh2511/leetcode_solution/tree/master/0085-maximal-rectangle) |
@@ -285,6 +286,7 @@ c,c++ leetcode solution
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/logesh2511/leetcode_solution/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/logesh2511/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 ## Memoization

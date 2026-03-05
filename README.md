@@ -136,6 +136,7 @@ c,c++ leetcode solution
 | [0680-valid-palindrome-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/logesh2511/leetcode_solution/tree/master/0796-rotate-string) |
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
+| [2027-minimum-moves-to-convert-string](https://github.com/logesh2511/leetcode_solution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/logesh2511/leetcode_solution/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
@@ -227,6 +228,7 @@ c,c++ leetcode solution
 | [0455-assign-cookies](https://github.com/logesh2511/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
 | [1402-reducing-dishes](https://github.com/logesh2511/leetcode_solution/tree/master/1402-reducing-dishes) |
+| [2027-minimum-moves-to-convert-string](https://github.com/logesh2511/leetcode_solution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Two Pointers
 |  |

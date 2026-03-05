@@ -176,6 +176,7 @@ c,c++ leetcode solution
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/logesh2511/leetcode_solution/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/logesh2511/leetcode_solution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/logesh2511/leetcode_solution/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/logesh2511/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
@@ -248,6 +249,7 @@ c,c++ leetcode solution
 | [0054-spiral-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/logesh2511/leetcode_solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/logesh2511/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/logesh2511/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
@@ -286,4 +288,8 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/logesh2511/leetcode_solution/tree/master/0085-maximal-rectangle) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/logesh2511/leetcode_solution/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

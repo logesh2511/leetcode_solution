@@ -20,6 +20,7 @@ c,c++ leetcode solution
 | [0560-subarray-sum-equals-k](https://github.com/logesh2511/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/logesh2511/leetcode_solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/logesh2511/leetcode_solution/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/logesh2511/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -33,6 +34,7 @@ c,c++ leetcode solution
 | [0287-find-the-duplicate-number](https://github.com/logesh2511/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/logesh2511/leetcode_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/logesh2511/leetcode_solution/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/logesh2511/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |

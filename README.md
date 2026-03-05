@@ -7,6 +7,7 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/logesh2511/leetcode_solution/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logesh2511/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/logesh2511/leetcode_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -80,6 +81,7 @@ c,c++ leetcode solution
 | [0014-longest-common-prefix](https://github.com/logesh2511/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
+| [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0796-rotate-string](https://github.com/logesh2511/leetcode_solution/tree/master/0796-rotate-string) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/logesh2511/leetcode_solution/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
@@ -89,6 +91,7 @@ c,c++ leetcode solution
 | ------- |
 | [0010-regular-expression-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
+| [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 ## Rolling Hash
 |  |
@@ -114,6 +117,7 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/logesh2511/leetcode_solution/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Math
 |  |
@@ -159,10 +163,19 @@ c,c++ leetcode solution
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 ## Geometry
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->

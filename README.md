@@ -9,6 +9,7 @@ c,c++ leetcode solution
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logesh2511/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/logesh2511/leetcode_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Binary Search
 |  |
@@ -119,6 +120,7 @@ c,c++ leetcode solution
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/logesh2511/leetcode_solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/logesh2511/leetcode_solution/tree/master/0326-power-of-three) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
 |  |
 | ------- |
@@ -159,4 +161,5 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->

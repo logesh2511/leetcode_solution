@@ -13,6 +13,7 @@ c,c++ leetcode solution
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logesh2511/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/logesh2511/leetcode_solution/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/logesh2511/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/logesh2511/leetcode_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0525-contiguous-array](https://github.com/logesh2511/leetcode_solution/tree/master/0525-contiguous-array) |
@@ -27,6 +28,7 @@ c,c++ leetcode solution
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/logesh2511/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/logesh2511/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/logesh2511/leetcode_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Divide and Conquer
 |  |
@@ -169,6 +171,7 @@ c,c++ leetcode solution
 | ------- |
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/logesh2511/leetcode_solution/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/logesh2511/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |
 | ------- |
@@ -186,6 +189,7 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/logesh2511/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |

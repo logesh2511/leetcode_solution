@@ -141,6 +141,7 @@ c,c++ leetcode solution
 | [2027-minimum-moves-to-convert-string](https://github.com/logesh2511/leetcode_solution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh2511/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/logesh2511/leetcode_solution/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
@@ -195,6 +196,7 @@ c,c++ leetcode solution
 | [0412-fizz-buzz](https://github.com/logesh2511/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh2511/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
@@ -234,6 +236,7 @@ c,c++ leetcode solution
 | [2027-minimum-moves-to-convert-string](https://github.com/logesh2511/leetcode_solution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/logesh2511/leetcode_solution/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh2511/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |

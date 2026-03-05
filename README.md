@@ -58,6 +58,7 @@ c,c++ leetcode solution
 | [0225-implement-stack-using-queues](https://github.com/logesh2511/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/logesh2511/leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/logesh2511/leetcode_solution/tree/master/0341-flatten-nested-list-iterator) |
+| [0707-design-linked-list](https://github.com/logesh2511/leetcode_solution/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -158,6 +159,7 @@ c,c++ leetcode solution
 | [0025-reverse-nodes-in-k-group](https://github.com/logesh2511/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/logesh2511/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/logesh2511/leetcode_solution/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/logesh2511/leetcode_solution/tree/master/0707-design-linked-list) |
 ## Greedy
 |  |
 | ------- |

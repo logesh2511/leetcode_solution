@@ -9,6 +9,7 @@ c,c++ leetcode solution
 | [0014-longest-common-prefix](https://github.com/logesh2511/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/logesh2511/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/logesh2511/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/logesh2511/leetcode_solution/tree/master/0048-rotate-image) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
@@ -158,6 +159,7 @@ c,c++ leetcode solution
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/logesh2511/leetcode_solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/logesh2511/leetcode_solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/logesh2511/leetcode_solution/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
@@ -245,6 +247,7 @@ c,c++ leetcode solution
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/logesh2511/leetcode_solution/tree/master/0048-rotate-image) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Prefix Sum
 |  |

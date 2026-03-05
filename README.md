@@ -157,6 +157,7 @@ c,c++ leetcode solution
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [2027-minimum-moves-to-convert-string](https://github.com/logesh2511/leetcode_solution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
+| [2514-count-anagrams](https://github.com/logesh2511/leetcode_solution/tree/master/2514-count-anagrams) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2953-count-complete-substrings](https://github.com/logesh2511/leetcode_solution/tree/master/2953-count-complete-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh2511/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -217,6 +218,7 @@ c,c++ leetcode solution
 | [0412-fizz-buzz](https://github.com/logesh2511/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2514-count-anagrams](https://github.com/logesh2511/leetcode_solution/tree/master/2514-count-anagrams) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/logesh2511/leetcode_solution/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh2511/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
@@ -286,6 +288,7 @@ c,c++ leetcode solution
 | [0645-set-mismatch](https://github.com/logesh2511/leetcode_solution/tree/master/0645-set-mismatch) |
 | [0854-k-similar-strings](https://github.com/logesh2511/leetcode_solution/tree/master/0854-k-similar-strings) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2514-count-anagrams](https://github.com/logesh2511/leetcode_solution/tree/master/2514-count-anagrams) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2953-count-complete-substrings](https://github.com/logesh2511/leetcode_solution/tree/master/2953-count-complete-substrings) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/logesh2511/leetcode_solution/tree/master/3002-maximum-size-of-a-set-after-removals) |
@@ -362,6 +365,7 @@ c,c++ leetcode solution
 ## Counting
 |  |
 | ------- |
+| [2514-count-anagrams](https://github.com/logesh2511/leetcode_solution/tree/master/2514-count-anagrams) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
@@ -379,4 +383,8 @@ c,c++ leetcode solution
 | ------- |
 | [0204-count-primes](https://github.com/logesh2511/leetcode_solution/tree/master/0204-count-primes) |
 | [3001-minimum-moves-to-capture-the-queen](https://github.com/logesh2511/leetcode_solution/tree/master/3001-minimum-moves-to-capture-the-queen) |
+## Combinatorics
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/logesh2511/leetcode_solution/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->

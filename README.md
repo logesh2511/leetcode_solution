@@ -8,6 +8,7 @@ c,c++ leetcode solution
 | ------- |
 | [0014-longest-common-prefix](https://github.com/logesh2511/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/logesh2511/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/logesh2511/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
@@ -31,6 +32,7 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/logesh2511/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/logesh2511/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/logesh2511/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/logesh2511/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |

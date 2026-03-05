@@ -211,6 +211,7 @@ c,c++ leetcode solution
 | [0412-fizz-buzz](https://github.com/logesh2511/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/logesh2511/leetcode_solution/tree/master/3001-minimum-moves-to-capture-the-queen) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/logesh2511/leetcode_solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -362,4 +363,5 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/logesh2511/leetcode_solution/tree/master/0204-count-primes) |
+| [3001-minimum-moves-to-capture-the-queen](https://github.com/logesh2511/leetcode_solution/tree/master/3001-minimum-moves-to-capture-the-queen) |
 <!---LeetCode Topics End-->

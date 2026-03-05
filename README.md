@@ -35,6 +35,7 @@ c,c++ leetcode solution
 | [1402-reducing-dishes](https://github.com/logesh2511/leetcode_solution/tree/master/1402-reducing-dishes) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3002-maximum-size-of-a-set-after-removals](https://github.com/logesh2511/leetcode_solution/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3026-maximum-good-subarray-sum](https://github.com/logesh2511/leetcode_solution/tree/master/3026-maximum-good-subarray-sum) |
 | [3033-modify-the-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/3033-modify-the-matrix) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
@@ -230,6 +231,7 @@ c,c++ leetcode solution
 | [1402-reducing-dishes](https://github.com/logesh2511/leetcode_solution/tree/master/1402-reducing-dishes) |
 | [2027-minimum-moves-to-convert-string](https://github.com/logesh2511/leetcode_solution/tree/master/2027-minimum-moves-to-convert-string) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3002-maximum-size-of-a-set-after-removals](https://github.com/logesh2511/leetcode_solution/tree/master/3002-maximum-size-of-a-set-after-removals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -247,6 +249,7 @@ c,c++ leetcode solution
 | [0560-subarray-sum-equals-k](https://github.com/logesh2511/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3002-maximum-size-of-a-set-after-removals](https://github.com/logesh2511/leetcode_solution/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3026-maximum-good-subarray-sum](https://github.com/logesh2511/leetcode_solution/tree/master/3026-maximum-good-subarray-sum) |
 ## Geometry
 |  |

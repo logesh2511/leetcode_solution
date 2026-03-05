@@ -10,6 +10,7 @@ c,c++ leetcode solution
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logesh2511/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/logesh2511/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/logesh2511/leetcode_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -213,4 +214,8 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/logesh2511/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->

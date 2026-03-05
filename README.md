@@ -17,6 +17,7 @@ c,c++ leetcode solution
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/logesh2511/leetcode_solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logesh2511/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/logesh2511/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/logesh2511/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
@@ -104,6 +105,7 @@ c,c++ leetcode solution
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/logesh2511/leetcode_solution/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logesh2511/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -124,6 +126,7 @@ c,c++ leetcode solution
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
+| [0179-largest-number](https://github.com/logesh2511/leetcode_solution/tree/master/0179-largest-number) |
 | [0412-fizz-buzz](https://github.com/logesh2511/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/logesh2511/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/logesh2511/leetcode_solution/tree/master/0796-rotate-string) |
@@ -214,6 +217,7 @@ c,c++ leetcode solution
 | ------- |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/logesh2511/leetcode_solution/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/logesh2511/leetcode_solution/tree/master/0179-largest-number) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Two Pointers
 |  |

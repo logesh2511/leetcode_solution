@@ -10,6 +10,7 @@ c,c++ leetcode solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/logesh2511/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/logesh2511/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/logesh2511/leetcode_solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
@@ -231,6 +232,7 @@ c,c++ leetcode solution
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
 ## Breadth-First Search
 |  |
@@ -248,6 +250,7 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/logesh2511/leetcode_solution/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Prefix Sum
 |  |

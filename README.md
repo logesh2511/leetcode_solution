@@ -88,6 +88,7 @@ c,c++ leetcode solution
 | [0014-longest-common-prefix](https://github.com/logesh2511/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0796-rotate-string](https://github.com/logesh2511/leetcode_solution/tree/master/0796-rotate-string) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
@@ -131,6 +132,7 @@ c,c++ leetcode solution
 | ------- |
 | [0050-powx-n](https://github.com/logesh2511/leetcode_solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/logesh2511/leetcode_solution/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/logesh2511/leetcode_solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/logesh2511/leetcode_solution/tree/master/0326-power-of-three) |
@@ -151,6 +153,7 @@ c,c++ leetcode solution
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/logesh2511/leetcode_solution/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
@@ -186,4 +189,8 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

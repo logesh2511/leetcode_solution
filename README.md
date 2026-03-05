@@ -114,6 +114,7 @@ c,c++ leetcode solution
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/logesh2511/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/logesh2511/leetcode_solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/logesh2511/leetcode_solution/tree/master/0060-permutation-sequence) |
@@ -128,6 +129,7 @@ c,c++ leetcode solution
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/logesh2511/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/logesh2511/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/logesh2511/leetcode_solution/tree/master/0206-reverse-linked-list) |
 ## Greedy

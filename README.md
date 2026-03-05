@@ -29,6 +29,7 @@ c,c++ leetcode solution
 | [0744-find-smallest-letter-greater-than-target](https://github.com/logesh2511/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3026-maximum-good-subarray-sum](https://github.com/logesh2511/leetcode_solution/tree/master/3026-maximum-good-subarray-sum) |
 | [3033-modify-the-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/3033-modify-the-matrix) |
@@ -127,6 +128,7 @@ c,c++ leetcode solution
 | [0796-rotate-string](https://github.com/logesh2511/leetcode_solution/tree/master/0796-rotate-string) |
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/logesh2511/leetcode_solution/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Dynamic Programming
@@ -224,6 +226,7 @@ c,c++ leetcode solution
 | [0525-contiguous-array](https://github.com/logesh2511/leetcode_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/logesh2511/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3026-maximum-good-subarray-sum](https://github.com/logesh2511/leetcode_solution/tree/master/3026-maximum-good-subarray-sum) |
 ## Geometry
 |  |
@@ -248,6 +251,7 @@ c,c++ leetcode solution
 | [0412-fizz-buzz](https://github.com/logesh2511/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/logesh2511/leetcode_solution/tree/master/0657-robot-return-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |

@@ -73,12 +73,14 @@ c,c++ leetcode solution
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/logesh2511/leetcode_solution/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 ## Rolling Hash
 |  |
@@ -112,6 +114,7 @@ c,c++ leetcode solution
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/logesh2511/leetcode_solution/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/logesh2511/leetcode_solution/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/logesh2511/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
@@ -127,4 +130,8 @@ c,c++ leetcode solution
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/logesh2511/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/logesh2511/leetcode_solution/tree/master/0206-reverse-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->

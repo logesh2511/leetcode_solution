@@ -21,6 +21,7 @@ c,c++ leetcode solution
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/logesh2511/leetcode_solution/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/logesh2511/leetcode_solution/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logesh2511/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/logesh2511/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/logesh2511/leetcode_solution/tree/master/0239-sliding-window-maximum) |
@@ -203,6 +204,7 @@ c,c++ leetcode solution
 | [0060-permutation-sequence](https://github.com/logesh2511/leetcode_solution/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
+| [0204-count-primes](https://github.com/logesh2511/leetcode_solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/logesh2511/leetcode_solution/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/logesh2511/leetcode_solution/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/logesh2511/leetcode_solution/tree/master/0326-power-of-three) |
@@ -342,6 +344,7 @@ c,c++ leetcode solution
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/logesh2511/leetcode_solution/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/logesh2511/leetcode_solution/tree/master/0258-add-digits) |
 ## Counting
 |  |
@@ -355,4 +358,8 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/logesh2511/leetcode_solution/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/logesh2511/leetcode_solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

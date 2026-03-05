@@ -14,6 +14,7 @@ c,c++ leetcode solution
 | [0215-kth-largest-element-in-an-array](https://github.com/logesh2511/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/logesh2511/leetcode_solution/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/logesh2511/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/logesh2511/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/logesh2511/leetcode_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0525-contiguous-array](https://github.com/logesh2511/leetcode_solution/tree/master/0525-contiguous-array) |
@@ -32,6 +33,7 @@ c,c++ leetcode solution
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/logesh2511/leetcode_solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/logesh2511/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/logesh2511/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/logesh2511/leetcode_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/logesh2511/leetcode_solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/logesh2511/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -122,6 +124,7 @@ c,c++ leetcode solution
 | [0010-regular-expression-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/logesh2511/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 ## Rolling Hash

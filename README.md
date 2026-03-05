@@ -32,6 +32,7 @@ c,c++ leetcode solution
 | [0744-find-smallest-letter-greater-than-target](https://github.com/logesh2511/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1402-reducing-dishes](https://github.com/logesh2511/leetcode_solution/tree/master/1402-reducing-dishes) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/logesh2511/leetcode_solution/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3026-maximum-good-subarray-sum](https://github.com/logesh2511/leetcode_solution/tree/master/3026-maximum-good-subarray-sum) |
@@ -110,6 +111,7 @@ c,c++ leetcode solution
 | [0215-kth-largest-element-in-an-array](https://github.com/logesh2511/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/logesh2511/leetcode_solution/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1402-reducing-dishes](https://github.com/logesh2511/leetcode_solution/tree/master/1402-reducing-dishes) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Heap (Priority Queue)
 |  |
@@ -147,6 +149,7 @@ c,c++ leetcode solution
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/logesh2511/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1402-reducing-dishes](https://github.com/logesh2511/leetcode_solution/tree/master/1402-reducing-dishes) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 ## Rolling Hash
 |  |
@@ -223,6 +226,7 @@ c,c++ leetcode solution
 | [0179-largest-number](https://github.com/logesh2511/leetcode_solution/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/logesh2511/leetcode_solution/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0680-valid-palindrome-ii) |
+| [1402-reducing-dishes](https://github.com/logesh2511/leetcode_solution/tree/master/1402-reducing-dishes) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Two Pointers
 |  |

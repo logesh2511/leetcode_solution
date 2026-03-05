@@ -37,6 +37,7 @@ c,c++ leetcode solution
 | [0704-binary-search](https://github.com/logesh2511/leetcode_solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/logesh2511/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/logesh2511/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0978-longest-turbulent-subarray](https://github.com/logesh2511/leetcode_solution/tree/master/0978-longest-turbulent-subarray) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/logesh2511/leetcode_solution/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1402-reducing-dishes](https://github.com/logesh2511/leetcode_solution/tree/master/1402-reducing-dishes) |
@@ -172,6 +173,7 @@ c,c++ leetcode solution
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/logesh2511/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0978-longest-turbulent-subarray](https://github.com/logesh2511/leetcode_solution/tree/master/0978-longest-turbulent-subarray) |
 | [1402-reducing-dishes](https://github.com/logesh2511/leetcode_solution/tree/master/1402-reducing-dishes) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 ## Rolling Hash
@@ -366,6 +368,7 @@ c,c++ leetcode solution
 | ------- |
 | [0076-minimum-window-substring](https://github.com/logesh2511/leetcode_solution/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/logesh2511/leetcode_solution/tree/master/0239-sliding-window-maximum) |
+| [0978-longest-turbulent-subarray](https://github.com/logesh2511/leetcode_solution/tree/master/0978-longest-turbulent-subarray) |
 | [2953-count-complete-substrings](https://github.com/logesh2511/leetcode_solution/tree/master/2953-count-complete-substrings) |
 ## Monotonic Queue
 |  |

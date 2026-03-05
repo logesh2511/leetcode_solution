@@ -18,6 +18,7 @@ c,c++ leetcode solution
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0525-contiguous-array](https://github.com/logesh2511/leetcode_solution/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/logesh2511/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/logesh2511/leetcode_solution/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/logesh2511/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
@@ -30,6 +31,7 @@ c,c++ leetcode solution
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/logesh2511/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/logesh2511/leetcode_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0704-binary-search](https://github.com/logesh2511/leetcode_solution/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |

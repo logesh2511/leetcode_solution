@@ -69,4 +69,24 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/logesh2511/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
+## String
+|  |
+| ------- |
+| [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
+## String Matching
+|  |
+| ------- |
+| [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
+## Hash Function
+|  |
+| ------- |
+| [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 <!---LeetCode Topics End-->

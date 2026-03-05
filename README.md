@@ -12,6 +12,7 @@ c,c++ leetcode solution
 | [0048-rotate-image](https://github.com/logesh2511/leetcode_solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
+| [0085-maximal-rectangle](https://github.com/logesh2511/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
@@ -67,6 +68,7 @@ c,c++ leetcode solution
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/logesh2511/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/logesh2511/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/logesh2511/leetcode_solution/tree/master/0232-implement-queue-using-stacks) |
 | [0341-flatten-nested-list-iterator](https://github.com/logesh2511/leetcode_solution/tree/master/0341-flatten-nested-list-iterator) |
@@ -128,6 +130,7 @@ c,c++ leetcode solution
 | ------- |
 | [0010-regular-expression-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
+| [0085-maximal-rectangle](https://github.com/logesh2511/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/logesh2511/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -254,6 +257,7 @@ c,c++ leetcode solution
 | [0048-rotate-image](https://github.com/logesh2511/leetcode_solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
+| [0085-maximal-rectangle](https://github.com/logesh2511/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Prefix Sum
 |  |
@@ -264,4 +268,8 @@ c,c++ leetcode solution
 | [0724-find-pivot-index](https://github.com/logesh2511/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/logesh2511/leetcode_solution/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3026-maximum-good-subarray-sum](https://github.com/logesh2511/leetcode_solution/tree/master/3026-maximum-good-subarray-sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/logesh2511/leetcode_solution/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->

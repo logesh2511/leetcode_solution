@@ -110,6 +110,7 @@ c,c++ leetcode solution
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/logesh2511/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/logesh2511/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/logesh2511/leetcode_solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/logesh2511/leetcode_solution/tree/master/0326-power-of-three) |
@@ -120,5 +121,6 @@ c,c++ leetcode solution
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/logesh2511/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/logesh2511/leetcode_solution/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

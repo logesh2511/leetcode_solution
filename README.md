@@ -140,6 +140,7 @@ c,c++ leetcode solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/logesh2511/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/logesh2511/leetcode_solution/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/logesh2511/leetcode_solution/tree/master/0389-find-the-difference) |
@@ -161,6 +162,7 @@ c,c++ leetcode solution
 | [0010-regular-expression-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/logesh2511/leetcode_solution/tree/master/0085-maximal-rectangle) |
+| [0131-palindrome-partitioning](https://github.com/logesh2511/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/logesh2511/leetcode_solution/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -283,6 +285,7 @@ c,c++ leetcode solution
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/logesh2511/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |

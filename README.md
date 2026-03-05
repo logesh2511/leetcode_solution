@@ -122,6 +122,7 @@ c,c++ leetcode solution
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
+| [0412-fizz-buzz](https://github.com/logesh2511/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [0796-rotate-string](https://github.com/logesh2511/leetcode_solution/tree/master/0796-rotate-string) |
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
@@ -173,6 +174,7 @@ c,c++ leetcode solution
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0231-power-of-two](https://github.com/logesh2511/leetcode_solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/logesh2511/leetcode_solution/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/logesh2511/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/logesh2511/leetcode_solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Recursion
@@ -242,6 +244,7 @@ c,c++ leetcode solution
 | [0054-spiral-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/logesh2511/leetcode_solution/tree/master/0412-fizz-buzz) |
 | [1041-robot-bounded-in-circle](https://github.com/logesh2511/leetcode_solution/tree/master/1041-robot-bounded-in-circle) |
 ## Breadth-First Search
 |  |

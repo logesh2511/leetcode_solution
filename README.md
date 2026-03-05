@@ -102,4 +102,12 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/logesh2511/leetcode_solution/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/logesh2511/leetcode_solution/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->

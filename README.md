@@ -142,6 +142,7 @@ c,c++ leetcode solution
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
+| [0127-word-ladder](https://github.com/logesh2511/leetcode_solution/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/logesh2511/leetcode_solution/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/logesh2511/leetcode_solution/tree/master/0179-largest-number) |
@@ -270,6 +271,7 @@ c,c++ leetcode solution
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/logesh2511/leetcode_solution/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0389-find-the-difference](https://github.com/logesh2511/leetcode_solution/tree/master/0389-find-the-difference) |
@@ -311,6 +313,7 @@ c,c++ leetcode solution
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/logesh2511/leetcode_solution/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/logesh2511/leetcode_solution/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |

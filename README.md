@@ -14,6 +14,7 @@ c,c++ leetcode solution
 | [0059-spiral-matrix-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/logesh2511/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0134-gas-station](https://github.com/logesh2511/leetcode_solution/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/logesh2511/leetcode_solution/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/logesh2511/leetcode_solution/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/logesh2511/leetcode_solution/tree/master/0162-find-peak-element) |
@@ -214,6 +215,7 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/logesh2511/leetcode_solution/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/logesh2511/leetcode_solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/logesh2511/leetcode_solution/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/logesh2511/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Linked List

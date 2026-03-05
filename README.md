@@ -73,6 +73,7 @@ c,c++ leetcode solution
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/logesh2511/leetcode_solution/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
@@ -80,6 +81,7 @@ c,c++ leetcode solution
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [2430-maximum-deletions-on-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/2430-maximum-deletions-on-a-string) |
 ## Rolling Hash
@@ -114,6 +116,7 @@ c,c++ leetcode solution
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/logesh2511/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/logesh2511/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |

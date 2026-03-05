@@ -6,6 +6,7 @@ c,c++ leetcode solution
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/logesh2511/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0149-max-points-on-a-line](https://github.com/logesh2511/leetcode_solution/tree/master/0149-max-points-on-a-line) |
 | [0215-kth-largest-element-in-an-array](https://github.com/logesh2511/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/logesh2511/leetcode_solution/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -76,6 +77,7 @@ c,c++ leetcode solution
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/logesh2511/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/logesh2511/leetcode_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/logesh2511/leetcode_solution/tree/master/0044-wildcard-matching) |
 | [0796-rotate-string](https://github.com/logesh2511/leetcode_solution/tree/master/0796-rotate-string) |
@@ -111,6 +113,7 @@ c,c++ leetcode solution
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/logesh2511/leetcode_solution/tree/master/0014-longest-common-prefix) |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/logesh2511/leetcode_solution/tree/master/3045-count-prefix-and-suffix-pairs-ii) |
 ## Math
 |  |

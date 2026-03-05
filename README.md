@@ -41,6 +41,7 @@ c,c++ leetcode solution
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/logesh2511/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0341-flatten-nested-list-iterator](https://github.com/logesh2511/leetcode_solution/tree/master/0341-flatten-nested-list-iterator) |
 ## Tree
 |  |
@@ -53,10 +54,12 @@ c,c++ leetcode solution
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/logesh2511/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0341-flatten-nested-list-iterator](https://github.com/logesh2511/leetcode_solution/tree/master/0341-flatten-nested-list-iterator) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/logesh2511/leetcode_solution/tree/master/0225-implement-stack-using-queues) |
 | [0341-flatten-nested-list-iterator](https://github.com/logesh2511/leetcode_solution/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
